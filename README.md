@@ -1,4 +1,4 @@
-# Shoe AR Store
+# Shoe AR Store - E commerce App By Hitman.
 
 Shoe AR Store is an E-Commerce Android App.(Graduate Project)
 
